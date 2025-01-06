@@ -1,0 +1,1 @@
+BookVerse is a feature-rich mobile app that leverages the Google Books API to provide users with comprehensive information about books. Whether you’re searching for a specific book or browsing through an extensive collection, BookVerse makes it easy to explore and learn more about your favorite titles.
