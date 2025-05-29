@@ -53,4 +53,4 @@ Login and register securely with Firebase Authentication to sync your library ac
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/bookverse.git
+git clone https://github.com/Priyanshumishra6696/bookverse.git
